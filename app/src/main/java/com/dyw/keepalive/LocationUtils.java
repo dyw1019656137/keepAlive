@@ -15,13 +15,6 @@ import androidx.core.app.ActivityCompat;
 
 import java.util.List;
 
-/**
- * 作者： 戴亚伟
- * 创建时间： 2019-07-16 15:26
- * 版本： [1.0, 2019-07-16]
- * 版权： 江苏国泰新点软件有限公司
- * 描述： <描述>
- */
 public class LocationUtils {
 
     private static final long REFRESH_TIME = 5000L;

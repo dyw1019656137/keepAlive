@@ -17,14 +17,6 @@ import java.util.List;
 
 import static com.dyw.keepalive.service.GpsService.TAG;
 
-/**
- * 作者： xujj
- * 创建时间： 2017/11/15 9:09
- * 版本： [1.0, 2017/11/15]
- * 版权： 江苏国泰新点软件有限公司
- * 描述：
- */
-
 public class GPSUtil {
     // GSP
     private static LocationManager locationManager;

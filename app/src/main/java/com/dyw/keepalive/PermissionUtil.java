@@ -18,14 +18,6 @@ import androidx.core.content.PermissionChecker;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * 作者： 周魏楠
- * 创建时间： 2018/3/2 11:22
- * 版本： [1.0, 2018/3/2]
- * 版权： 江苏国泰新点软件有限公司
- * 描述： 权限申请工具类
- */
-
 public class PermissionUtil {
 
     /**

@@ -35,14 +35,14 @@ public class MainActivity extends AppCompatActivity {
                 startService(new Intent(getApplicationContext(), MusicService.class));
 //
 //                if (mScheduled == null) {
-//                    mScheduled = new ScheduledThreadPoolExecutor(1);
-//                    mScheduled.scheduleAtFixedRate(new Runnable() {
-//                        @Override
-//                        public void run() {
-//                            ShortcutBadger.applyCount(MainActivity.this, 1);
-//                        }
-//                    }, 0, 2000, TimeUnit.MILLISECONDS);
-//                }
+////                    mScheduled = new ScheduledThreadPoolExecutor(1);
+////                    mScheduled.scheduleAtFixedRate(new Runnable() {
+////                        @Override
+////                        public void run() {
+////                            ShortcutBadger.applyCount(MainActivity.this, 1);
+////                        }
+////                    }, 0, 2000, TimeUnit.MILLISECONDS);
+////                }
 //                int num = 1 + (int) (Math.random() * (99 - 1 + 1));
 //                Toast.makeText(MainActivity.this,"随机数为："+num,Toast.LENGTH_SHORT).show();
 //                ShortcutBadger.applyCount(MainActivity.this, num);
