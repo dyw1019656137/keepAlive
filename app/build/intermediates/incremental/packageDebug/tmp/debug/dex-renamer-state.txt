@@ -1,0 +1,4 @@
+#Tue Aug 13 16:09:12 CST 2019
+base.0=/Users/dyw/Android/keepAlive/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,4 @@
+#Tue Aug 13 11:41:22 CST 2019
+base.0=/Users/dyw/Android/keepAlive/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex

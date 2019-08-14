@@ -1,0 +1,393 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:2:1-77:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dyw/.gradle/caches/transforms-2/files-2.1/2c68ac6954fdc9372cb97dd477ab62ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/dyw/.gradle/caches/transforms-2/files-2.1/cdf09bac577b5a807e52c40663e506ed/AndroidManifest.xml:2:1-11:12
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:2:1-52:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/c2aa61ce41656db6c996a00b64254d7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/7922298689599d00158ad80cd4f40789/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e0d16c9f45eef9f40f99e0b84a264c5f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e405c4eb0cd8686df32f5791944be4dc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dyw/.gradle/caches/transforms-2/files-2.1/3031e58bde8b36fdb37c3f4fde83cd42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e641bfaba6bcf5770b7615f6e60d6174/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/f493da8b4a7ba90118046aab0e176214/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/b9b706b669c6cfc8aebbee6e4ba426b1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/51aabfcd7938cb76e3b983d90abd9050/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e5adc9477f002f737eed83c41bd74308/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/9f8787885593a298a80dcb3789476396/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/02c9071f01c4a87df6d3428c662037ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/ab442b9e09f0a3a687378048f9366140/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/dyw/.gradle/caches/transforms-2/files-2.1/6cd4046b8076bac249e277e56c096c02/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/249a67728a9587df0c67a529a794d3fd/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/06eeee691094a6f51516cc3cfd49152e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/ed386d6e89dcb834cc48b273cb8f10d0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/0fc25576eca07922b1f8aeb567878e67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/51b22782415d8827e323461d02f993c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/1f742baad90828dce9704fc9cdda56ab/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/629b644d97733a93a4ec2d2cd04dc335/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/973818d8b274e89e254bf19fe9bc89d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/ff073765d64b1bad4c6d0e41721fe6eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/bcb1385bdc35915a49b38d4b1d5a6a3a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/9ff6e56dd90e5f3b3bfcaffd0fd776dc/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:2:1-77:12
+INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:2:1-77:12
+	package
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+	xmlns:ndroid
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:3:5-63
+	android:versionName
+		INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:2:1-77:12
+		INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:2:1-77:12
+		INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:8:5-76
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:12:5-69
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:12:22-66
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:13:5-76
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:13:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:15:22-72
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:16:5-71
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:16:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:17:5-67
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:17:22-64
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:18:5-80
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:18:22-77
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:19:5-21:47
+	tools:ignore
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:20:9-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:22:5-75
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:22:22-72
+uses-permission#android.permission.READ_OWNER_DATA
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:23:22-71
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:24:22-69
+uses-permission#android.permission.READ_PROFILE
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:25:5-71
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:25:22-68
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:26:5-72
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:26:22-69
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:27:5-29:47
+	tools:ignore
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:29:9-44
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:28:9-52
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:30:5-81
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:30:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:31:5-71
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:31:22-68
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:32:5-73
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:32:22-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:33:5-81
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:33:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:34:5-36:47
+	tools:ignore
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:36:9-44
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:35:9-57
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:37:5-68
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:37:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:38:5-66
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:38:22-63
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:39:5-78
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:39:22-75
+uses-permission#android.permission.SYSTEM_OVERLAY_WINDOW
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:40:5-80
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:40:22-77
+uses-permission#android.permission.SEND_SMS
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:41:5-67
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:41:22-64
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:42:5-74
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:42:22-71
+uses-permission#android.hardware.sensor.accelerometer
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:43:5-77
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:43:22-74
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:44:5-85
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:44:22-82
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:45:5-68
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:45:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:46:5-74
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:46:22-71
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:47:5-77
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:47:22-74
+application
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:49:5-75:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/dyw/.gradle/caches/transforms-2/files-2.1/cdf09bac577b5a807e52c40663e506ed/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/dyw/.gradle/caches/transforms-2/files-2.1/cdf09bac577b5a807e52c40663e506ed/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/dyw/.gradle/caches/transforms-2/files-2.1/6cd4046b8076bac249e277e56c096c02/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/dyw/.gradle/caches/transforms-2/files-2.1/6cd4046b8076bac249e277e56c096c02/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/249a67728a9587df0c67a529a794d3fd/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/249a67728a9587df0c67a529a794d3fd/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/dyw/.gradle/caches/transforms-2/files-2.1/6cd4046b8076bac249e277e56c096c02/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:54:9-35
+	android:label
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:52:9-41
+	android:roundIcon
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:53:9-54
+	android:icon
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:51:9-43
+	android:allowBackup
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:50:9-35
+	android:theme
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:55:9-40
+service#com.dyw.keepalive.service.MusicService
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:56:9-59:40
+	ndroid:persistent
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:59:13-37
+	android:priority
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:57:13-49
+service#com.dyw.keepalive.service.CoreService
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:60:9-62:41
+	android:persistent
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:62:13-38
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:61:13-48
+service#com.dyw.keepalive.service.GpsService
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:63:9-66:39
+	android:priority
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:66:13-36
+	android:persistent
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:65:13-38
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:64:13-47
+activity#com.dyw.keepalive.MainActivity
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:68:9-74:20
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:68:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:69:13-73:29
+action#android.intent.action.MAIN
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:70:17-69
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:70:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:72:17-77
+	android:name
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml:72:27-74
+uses-sdk
+INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dyw/.gradle/caches/transforms-2/files-2.1/2c68ac6954fdc9372cb97dd477ab62ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/dyw/.gradle/caches/transforms-2/files-2.1/2c68ac6954fdc9372cb97dd477ab62ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/dyw/.gradle/caches/transforms-2/files-2.1/cdf09bac577b5a807e52c40663e506ed/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/dyw/.gradle/caches/transforms-2/files-2.1/cdf09bac577b5a807e52c40663e506ed/AndroidManifest.xml:5:5-7:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:7:5-9:41
+MERGED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/c2aa61ce41656db6c996a00b64254d7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/c2aa61ce41656db6c996a00b64254d7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/7922298689599d00158ad80cd4f40789/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/7922298689599d00158ad80cd4f40789/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e0d16c9f45eef9f40f99e0b84a264c5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e0d16c9f45eef9f40f99e0b84a264c5f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e405c4eb0cd8686df32f5791944be4dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e405c4eb0cd8686df32f5791944be4dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dyw/.gradle/caches/transforms-2/files-2.1/3031e58bde8b36fdb37c3f4fde83cd42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/dyw/.gradle/caches/transforms-2/files-2.1/3031e58bde8b36fdb37c3f4fde83cd42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e641bfaba6bcf5770b7615f6e60d6174/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e641bfaba6bcf5770b7615f6e60d6174/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/f493da8b4a7ba90118046aab0e176214/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/f493da8b4a7ba90118046aab0e176214/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/b9b706b669c6cfc8aebbee6e4ba426b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/b9b706b669c6cfc8aebbee6e4ba426b1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/51aabfcd7938cb76e3b983d90abd9050/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/51aabfcd7938cb76e3b983d90abd9050/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e5adc9477f002f737eed83c41bd74308/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/e5adc9477f002f737eed83c41bd74308/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/9f8787885593a298a80dcb3789476396/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/9f8787885593a298a80dcb3789476396/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/02c9071f01c4a87df6d3428c662037ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/02c9071f01c4a87df6d3428c662037ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/ab442b9e09f0a3a687378048f9366140/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/ab442b9e09f0a3a687378048f9366140/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/dyw/.gradle/caches/transforms-2/files-2.1/6cd4046b8076bac249e277e56c096c02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/dyw/.gradle/caches/transforms-2/files-2.1/6cd4046b8076bac249e277e56c096c02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/249a67728a9587df0c67a529a794d3fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/249a67728a9587df0c67a529a794d3fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/06eeee691094a6f51516cc3cfd49152e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/06eeee691094a6f51516cc3cfd49152e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/ed386d6e89dcb834cc48b273cb8f10d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/ed386d6e89dcb834cc48b273cb8f10d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/0fc25576eca07922b1f8aeb567878e67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/0fc25576eca07922b1f8aeb567878e67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/51b22782415d8827e323461d02f993c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/51b22782415d8827e323461d02f993c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/1f742baad90828dce9704fc9cdda56ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/1f742baad90828dce9704fc9cdda56ab/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/629b644d97733a93a4ec2d2cd04dc335/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/629b644d97733a93a4ec2d2cd04dc335/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/973818d8b274e89e254bf19fe9bc89d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/973818d8b274e89e254bf19fe9bc89d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/ff073765d64b1bad4c6d0e41721fe6eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/ff073765d64b1bad4c6d0e41721fe6eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/bcb1385bdc35915a49b38d4b1d5a6a3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/bcb1385bdc35915a49b38d4b1d5a6a3a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/9ff6e56dd90e5f3b3bfcaffd0fd776dc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/dyw/.gradle/caches/transforms-2/files-2.1/9ff6e56dd90e5f3b3bfcaffd0fd776dc/AndroidManifest.xml:20:5-44
+INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dyw/Android/keepAlive/app/src/main/AndroidManifest.xml
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.22] /Users/dyw/.gradle/caches/transforms-2/files-2.1/72cb3588770d611b892bfc5cd2ddf0b0/AndroidManifest.xml:50:22-86

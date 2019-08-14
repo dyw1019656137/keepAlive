@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="26"
+    build-mode="FULL"
+    density="xxhdpi"
+    format="10"
+    plugin-version="3.4.1"
+    timestamp="1565667680165"
+    token="-8090715441357301574"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="64" />
+    <task
+        name="verifier"
+        duration="76" />
+
+    <artifact
+        location="/Users/dyw/Android/keepAlive/app/build/intermediates/resources/instant-run/debug/resources-debug.apk"
+        type="SPLIT" />
+    <artifact
+        location="/Users/dyw/Android/keepAlive/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
+        type="SPLIT" />
+
+</instant-run>
